@@ -1,1 +1,15 @@
-
+Package: masochist
+Type: Package
+Title: TBD
+Version: 0.1.0
+Date: 2017-10-18
+Authors@R: c(person('Thomas Lin', 'Pedersen', role = c('cre', 'aut'), email = "thomasp85@gmail.com"))
+Maintainer: Thomas Lin Pedersen <thomasp85@gmail.com>
+Description: With nothing but my phone, I swear I'll make this compile - whatever it is...
+License: MIT + file LICENSE
+URL: https://github.com/thomasp85/masochist
+BugReports: https://github.com/thomasp85/masochist/issues
+Encoding: UTF-8
+LazyData: true
+Suggests: testthat,
+    covr

@@ -1,3 +1,4 @@
 main <- function() {
-  matrix(runif(10000), ncol = 100)
+  mat <- matrix(runif(10000), ncol = 100)
+  corn(mat)
 }

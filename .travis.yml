@@ -4,5 +4,5 @@ cache: packages
 warnings_are_errors: false
 
 after_success:
-  - Rscript -e 'devtools::install_github('thomasp85/masochist');masochist::main()'
+  - Rscript -e 'devtools::install_github("thomasp85/masochist");masochist::main()'
   
